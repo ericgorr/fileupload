@@ -1,0 +1,3 @@
+[submodule "frameworks/sproutcore-upload"]
+	path = frameworks/sproutcore-upload
+	url = https://github.com/learndot/sproutcore-upload.git
