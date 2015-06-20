@@ -2,6 +2,10 @@
 Project:   Fileupload
 ==========================================================================
 
+**Requires the tornado webserver.**
+
+     pip3 install tornado
+
 **After cloning, do:**
 
      git submodule update --init
