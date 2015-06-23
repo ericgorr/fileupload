@@ -20,7 +20,7 @@ class MainHandler(tornado.web.RequestHandler):
         print( self.request.body )
         
         self.set_header( "Content-Type", "text/plain" )
-        self.write( "handled" )
+        self.write( "{ \"result\" : \"success\" } " )
 
 
 
